@@ -1,0 +1,25 @@
+jupyterlab
+
+# basic
+numpy
+matplotlib
+seaborn
+pandas 
+python-box
+tqdm
+tifffile
+
+# preprocess
+opencv-python
+scikit-learn
+scikit-image
+scipy
+
+# DL
+timm
+pytorch-lightning
+rich
+tensorboard
+albumentations
+sahi
+wandb

@@ -1,0 +1,26 @@
+# data
+data/
+
+# cache
+*.pyc
+__pycache__/
+.**_cache/
+
+# Mac
+.DS_Store
+
+# logging
+notebook/experiment/wandb/
+notebook/experiment/output/
+notebook/eda/output/
+**.logs
+**.log
+**/logs
+**/log
+
+# jupyter
+.ipynb_checkpoints/
+
+# model
+**.pth
+**.pt
